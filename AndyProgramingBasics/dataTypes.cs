@@ -32,12 +32,6 @@ namespace AndyProgramingBasics
             // object creation
             dataTypes obj = new dataTypes();
 
-            //obj.test();
-
-            // obj.arthemeticOperatoes();
-
-
-            // obj.compareOperators();
 
             obj.asignOperator();
 

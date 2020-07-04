@@ -16,7 +16,7 @@ namespace AndyProgramingBasics
 
        char grade;
 
-        public static void Main(string[] args)
+        public static void Main3(string[] args)
         {
             grades student1 = new grades();
 

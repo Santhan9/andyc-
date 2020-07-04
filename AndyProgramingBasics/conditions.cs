@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AndyProgramingBasics
 {
-    class conditions
+    class loops
     {
 
         public static void Main1(string[] args)

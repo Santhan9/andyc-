@@ -48,6 +48,7 @@
     <Compile Include="customer.cs" />
     <Compile Include="dataTypes.cs" />
     <Compile Include="grades.cs" />
+    <Compile Include="loopss.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
