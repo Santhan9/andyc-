@@ -9,7 +9,7 @@ namespace AndyProgramingBasics
     class loopss
     {
 
-        public static void Main(string[] aargs)
+        public static void Main1(string[] aargs)
         {
 
           /*  int i = 1;
